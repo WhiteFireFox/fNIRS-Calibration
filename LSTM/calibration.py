@@ -7,7 +7,7 @@ import metrics
 
 # Select dataset through task_id
 task = ['UFFT', 'MA']
-task_id = 0
+task_id = 1
 print(task[task_id])
 
 if task_id == 0:
